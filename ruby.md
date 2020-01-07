@@ -5,41 +5,35 @@ Answer the following questions. First, without external resources. Challenge you
 
 1. In what ways are JavaScript and Ruby similar? In what ways are they different?
 
-  Your answer:
+  Your answer: they both interpreted instead of being compiled, java scrpt is more front end and ruby is alot of back end.
 
-  Researched answer:
+  Researched answer: In JavaScript,  variable declaration and assignment is a little bit longer compared to Ruby
 
 
 
 2. What is a hash?
 
-  Your answer:
-
-  Researched answer:
+  Your answer: a set of kep value pairs that contain information.
 
 
 
 3. What is the testing framework used in Ruby? Describe the process of setting up the testing environment.
 
-  Your answer:
-
-  Researched answer:
+  Your answer: rspec
 
 
 
 4. Name three possible relationships between objects?
 
-  Your answer:
-
-  Researched answer:
-
-
+  Your answer: has_one
+              has_many
+              belongs_to
 
 5. What is an instance variable? How is it different from other variables in Ruby?
 
-  Your answer:
+  Your answer:An instance variable has a title that starts with @ and it is different because it can act on all the methods and it needs to be iniialized.
 
-  Researched answer:
+
 
 
 
@@ -51,11 +45,11 @@ Answer the following questions. First, without external resources. Challenge you
 
 Choose one of these resources and look through the material for 10-15 min. List three new things you learned about Ruby:
 
-1)
+1)the map method also conatins sin() and tan()
 
-2)
+2) the name for not caring about the actual type of a variable and relying on what methods it supports is called “Duck Typing”
 
-3)
+3) Ruby was created in 1991
 
 
 7. STRETCH: What are blocks, procs, and lambdas?
